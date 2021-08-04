@@ -6,7 +6,7 @@
 - 😄 Pronouns: they/them (preferably) | or any which you prefer
 
 # Support my Projects!
-[![paypal.me/diegog1019](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/diegog1019) I'll likely use it to improve my setup or save for college ~~or buy some Oreos~~ 😁
+[![paypal.me/diegog1019](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/diegog1019) I'll likely use it to improve my setup or pay for college ~~or buy some Oreos~~ 😁
 
 
 # 
