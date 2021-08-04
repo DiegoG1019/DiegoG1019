@@ -3,4 +3,5 @@
 - 😄 Pronouns: they/them (preferably) | or any which you prefer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoG1019&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoG1019&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoG1019&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
