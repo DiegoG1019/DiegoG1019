@@ -14,7 +14,11 @@
 - WPF, Avalonia, CLI, Background Workers (Services)
 
 # Support my Projects!
-[![paypal.me/diegog1019](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/diegog1019) I'll likely use it to improve my setup or pay for college ~~or buy some Oreos~~ 😁
+<a href="https://www.buymeacoffee.com/DiegoG1019"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DiegoG1019&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+[![paypal.me/diegog1019](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/diegog1019)
+
+I'll likely use it to improve my setup or pay for college ~~or buy some Oreos~~ 😁
 
 ## 
 
