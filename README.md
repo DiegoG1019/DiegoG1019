@@ -1,5 +1,9 @@
 # About
 
+I'm a Full Stack Developer, focusing mostly on C# for Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling
+
+I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
+
 - 💬 Ask me about anything!
 - 📫 Reach me on Discord (DiegoG1014#0467) or [Fiverr](https://www.fiverr.com/diegog1014)
 - 💻 Job Offers only through Fiverr
