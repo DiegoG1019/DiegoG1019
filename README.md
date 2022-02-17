@@ -9,9 +9,6 @@ I also code in C++ for embedded devices such as Arduino and ESP32s, with a good 
 - 💻 Job Offers only through Fiverr
 - 😄 Pronouns: they/them (preferably) | or any which you prefer
 
-| a | b | c |
-|---|---|---|
-
 ## I mostly work on...
 - Languages: 
 
