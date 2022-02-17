@@ -9,13 +9,39 @@ I also code in C++ for embedded devices such as Arduino and ESP32s, with a good 
 - 💻 Job Offers only through Fiverr
 - 😄 Pronouns: they/them (preferably) | or any which you prefer
 
+| a | b | c |
+|---|---|---|
+
 ## I mostly work on...
-- Languages: C#, Lua, C++
-- Markup: HTML, CSS, XAML
-- Frameworks: ASP.NET, Blazor, WPF, Avalonia
-- Platforms: Windows, Linux
-- Application Models: (Progressive) WebApp, Desktop GUI, CLI (Tooling and User IO), Background Workers (Services), Web Service, (HTTPS) Web API, Chat Bots (Twitter, Discord and Telegram)
-- Web Platforms: AWS, Azure, Heroku
+- Languages: 
+
+| C# | Lua | C++ |
+| -- | --- | --- |
+
+- Markup: 
+
+| HTML | CSS | XAML |
+|-|-|-|
+
+- Frameworks: 
+
+|ASP.NET|Blazor|WPF|Avalonia|
+|-|-|-|-|
+
+- Platforms: 
+
+|Windows|Linux|
+|-|-|
+
+- Application Models: 
+
+|(Progressive) Web App|Desktop GUI|CLI (Tooling and User IO)|Web Service|(HTTPS) Web API|Chat Bots (Twitter, Discord and Telegram)|
+|-|-|-|-|-|-|
+
+- Web Platforms: 
+
+|AWS|Azure|Heroku|
+|-|-|-|
 
 # Support my Projects!
 <a href="https://www.buymeacoffee.com/DiegoG1019"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DiegoG1019&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"></a>
