@@ -51,21 +51,17 @@ Aplication Models I work with:
 |(Progressive) Web App|Desktop GUI|CLI (Tooling and User IO)|Web Service|(HTTPS) Web API|Chat Bots (Twitter, Discord and Telegram)|
 |-|-|-|-|-|-|
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/DiegoG1019"><img src="https://github-readme-stats.vercel.app/api?username=DiegoG1019&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoG1019's GitHub stats" /></a>
+
+<a href="http://www.github.com/DiegoG1019"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoG1019&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 # Support my Projects!
 <a href="https://www.buymeacoffee.com/DiegoG1019"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DiegoG1019&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 [![paypal.me/diegog1019](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/diegog1019)
 
 I'll likely use it to improve my setup or pay for college ~~or buy some Oreos~~ 😁
-
-## 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="horizontal-align:middle;margin:50px 50px" src="https://github-readme-stats.vercel.app/api?username=DiegoG1019&show_icons=true&theme=tokyonight">
-</a>
-
-## 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="horizontal-align:middle;margin:50px 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoG1019&layout=compact&theme=tokyonight">
-</a>
