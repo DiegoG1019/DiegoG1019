@@ -8,7 +8,7 @@ I'm a Full Stack Developer, focusing mostly on C# for Back-end and Front-end Web
 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [dagarciam1014@gmail.com](mailto:dagarciam1014@gmail.com)
-* 🧠  I'm learning AI (non-ML)
+* 🧠  I'm currently learning to use SDL2, by wrapping it in a C# library!
 * 🤝  I'm open to collaborating on Web, desktop and other projects, as well as game mods
 * ⚡  I love coffee, and The Legend of Zelda
 * 💬 Ask me about anything!
