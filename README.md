@@ -1,21 +1,7 @@
-Hi 👋 My name is Diego García
-=============================
 
-Full Stack .NET and Embedded Developer
---------------------------------------
+I'm a Full Stack Developer, focusing mostly on C# for Back-end and Front-end Web, Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling. I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
+Pronouns: they/them/their
 
-I'm a Full Stack Developer, focusing mostly on C# for Back-end and Front-end Web, Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
-
-* 🌍  I'm based in Venezuela
-* ✉️  You can contact me at [dagarciam1014@gmail.com](mailto:dagarciam1014@gmail.com)
-* 🧠  I'm currently working on a Game Engine! Figuring my way through low-level graphics processing
-* 🤝  I'm open to collaborating on Web, desktop and other projects, as well as game mods
-* ⚡  I love coffee, and The Legend of Zelda
-* 💬 Ask me about anything!
-* 😄 Pronouns: they/them/their
-
-<a href="https://www.github.com/diegog1019" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/diegog1019?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -41,27 +27,3 @@ src="https://img.shields.io/github/followers/diegog1019?logo=github&style=for-th
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/cosmosdb_logo.png" alt="CosmosDB" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/diegog1019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-garcía-8bbbba206/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/diegog1016" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-Aplication Models I work with: 
-
-|(Progressive) Web App|Desktop GUI|CLI (Tooling and User IO)|Web Service|(HTTPS) Web API|Chat Bots (Twitter, Discord and Telegram)|
-|-|-|-|-|-|-|
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DiegoG1019"><img src="https://github-readme-stats.vercel.app/api?username=DiegoG1019&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoG1019's GitHub stats" /></a>
-
-<a href="http://www.github.com/DiegoG1019"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoG1019&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-# Support my Projects!
-<a href="https://www.buymeacoffee.com/DiegoG1019"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DiegoG1019&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"></a>
-
-[![paypal.me/diegog1019](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/diegog1019)
-
-I'll likely use it to improve my setup or pay for college ~~or buy some Oreos~~ 😁
