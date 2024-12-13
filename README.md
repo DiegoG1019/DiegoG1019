@@ -29,8 +29,12 @@ Pronouns: they/them/their
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /> Heroku </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> MySQL </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /> MongoDB </a>
-<a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/cosmosdb_logo.png" alt="CosmosDB" /> CosmoDB </a>
+<a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/cosmosdb_logo.png" width="36" height="36" alt="CosmosDB" /> CosmoDB </a>
+<a href="https://en.wikipedia.org/wiki/Chatbot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/chatbot.png" width="36" height="36" alt="Chat Bots" /> Chat Bots </a>
 </p>
+
+##### Other Skills
+Facial Recognition | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | JWT | OAuth | HTTP/S REST
 
 ### Interests
 Amongst the many things I enjoy doing with my time, the most prominent would be:
