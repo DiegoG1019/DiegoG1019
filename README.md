@@ -1,5 +1,5 @@
 
-I'm a Full Stack Developer, focusing mostly on C# for Back-end and Front-end Web, Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling. I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
+I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing mostly on C# for Back-end and Front-end Web, Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling. I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
 Pronouns: they/them/their
 
 ### Skills
@@ -34,10 +34,10 @@ Pronouns: they/them/their
 </p>
 
 ##### Other Skills
-Facial Recognition | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | JWT | OAuth | HTTP/S REST
+Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
 
 ### Interests
-Amongst the many things I enjoy doing with my time, the most prominent would be:
+Amongst the many things I enjoy doing with my time, the most prominent - tech-wise - would be:
 - Electronics
 - Programming
 - Web Development
