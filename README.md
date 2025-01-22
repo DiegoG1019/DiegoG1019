@@ -39,7 +39,7 @@ Pronouns: they/them/their
 Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
 
 ### Notable *Public* Apps I've made
-<table>
+<table class="notable-apps">
   <thead>
     <tr>
       <th>Chat Bots</th>
