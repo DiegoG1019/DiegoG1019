@@ -27,13 +27,27 @@ Pronouns: they/them/their
 ##### Services
 <p align="left">
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/azure_logo.png" width="36" height="36" alt="Microsoft Azure" /> Azure </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/aws_logo.png" width="36" height="36" alt="Amazon AWS" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/aws_logo.png" width="36" height="36" alt="Amazon AWS" /> Amazon AWS </a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /> Heroku </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> MySQL </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /> MongoDB </a>
 <a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/cosmosdb_logo.png" width="36" height="36" alt="CosmosDB" /> CosmoDB </a>
 <a href="https://en.wikipedia.org/wiki/Chatbot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/chatbot.png" width="36" height="36" alt="Chat Bots" /> Chat Bots </a>
 </p>
+
+### Notable *Public* Apps I've made
+<table>
+  <thead>
+    <tr>
+      <th>Chat Bots</th>
+    </tr>
+  </thead>
+    <tbody>
+      <tr>
+        <td><span class="highlightable">Telegram Collaborative To-Do List bot, <a href="https://t.me/dgtodolistbot">@dgtodolistbot</a></span></td>
+      </tr>
+  </tbody>
+</table>
 
 ##### Other Skills
 Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
