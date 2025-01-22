@@ -9,7 +9,7 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/lua_logo.png" alt="Lua" /> Lua </a>
 </p>
 
-##### Tecnologías Web
+##### Tecnologías
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/aspnet_logo.png" alt="ASP.NET" /> ASP.NET </a>
 <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/avalonia_logo.png" alt="Avalonia" /> Avalonia </a>
@@ -23,7 +23,7 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 ##### Servicios
 <p align="left">
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/azure_logo.png" width="36" height="36" alt="Microsoft Azure" /> Azure </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/aws_logo.png" width="36" height="36" alt="Amazon AWS" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/aws_logo.png" width="36" height="36" alt="Amazon AWS" /> Amazon AWS </a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /> Heroku </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> MySQL </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /> MongoDB </a>
@@ -33,6 +33,20 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 
 ##### Otras habilidades
 Reconocimiento Facial | Desarrollo Web | Desarrollo de Video Juegos | Tecnología de Información (IT, por sus siglas en inglés) | Mantenimiento de Hardware | Tutoría de Código | Sistemas Embedidos | OAuth | APIs Web HTTP/S REST
+
+### Aplicaciones *publicas* notables que he hecho
+<table class="notable-apps">
+  <thead>
+    <tr>
+      <th>Chat Bots</th>
+    </tr>
+  </thead>
+    <tbody>
+      <tr>
+        <td class="highlightable">Bot de Listas de que Hacer Colaborativa, <a href="https://t.me/dgtodolistbot">@dgtodolistbot</a></span></td>
+      </tr>
+  </tbody>
+</table>
 
 ### Intereses
 Entre las muchas cosas que me gusta hacer con mi tiempo y la tecnología, las mas prominentes serían:
