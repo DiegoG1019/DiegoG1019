@@ -2,6 +2,8 @@
 I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing mostly on C# for Back-end and Front-end Web, Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling. I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
 Pronouns: they/them/their
 
+<span class="not-in-website"><a href="https://diegog1019.github.io/">Check out my Website!</a></span>
+
 ### Skills
 
 ##### Programming Languages
