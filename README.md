@@ -35,6 +35,9 @@ Pronouns: they/them/their
 <a href="https://en.wikipedia.org/wiki/Chatbot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/chatbot.png" width="36" height="36" alt="Chat Bots" /> Chat Bots </a>
 </p>
 
+##### Other Skills
+Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
+
 ### Notable *Public* Apps I've made
 <table>
   <thead>
@@ -44,13 +47,10 @@ Pronouns: they/them/their
   </thead>
     <tbody>
       <tr>
-        <td><span class="highlightable">Telegram Collaborative To-Do List bot, <a href="https://t.me/dgtodolistbot">@dgtodolistbot</a></span></td>
+        <td class="highlightable">Telegram Collaborative To-Do List bot, <a href="https://t.me/dgtodolistbot">@dgtodolistbot</a></span></td>
       </tr>
   </tbody>
 </table>
-
-##### Other Skills
-Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
 
 ### Interests
 Amongst the many things I enjoy doing with my time, the most prominent - tech-wise - would be:
