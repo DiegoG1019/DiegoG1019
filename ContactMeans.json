@@ -12,5 +12,12 @@
 		"Uri": "https://t.me/netdevdiegog",
 		"DisplayType": 2,
 		"DisplayData": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png"
+	},
+	{
+		"Enabled": true,
+		"DisplayName": "@DiegoG1014",
+		"Uri": "https://www.fiverr.com/diegog1014",
+		"DisplayType": 2,
+		"DisplayData": "https://www.fiverr.com/favicon.ico"
 	}
 ]
