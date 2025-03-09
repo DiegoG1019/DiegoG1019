@@ -1,0 +1,122 @@
+[
+  {
+    "StartingBidUSD": 100,
+    "EndingBidUSD": 600,
+    "Questions": [
+      {
+        "LocalizedQuestion": {
+          "eng": "If you\u2019re ordering for a business, what\u2019s your industry?",
+          "esp": "Si estas haciendo la orden para un negocio, \u00BFcual es tu industria?"
+        },
+        "LocalizedExample": null
+      },
+      {
+        "LocalizedQuestion": {
+          "eng": "Is this order part of a bigger project you\u0027re working on?",
+          "esp": "\u00BFEsta orden es parte de un proyecto mayor en el cual est\u00E1s trabajando?"
+        },
+        "LocalizedExample": null
+      }
+    ],
+    "Enabled": true,
+    "LocalizedNames": {
+      "esp": "Aplicaciones Web",
+      "eng": "Web Applications"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Desarrollar\u00E9 tu aplicaci\u00F3n web bajo tus necesidades, incluyendo responsividad completa, tanto en el \u0027back\u0027 como en el \u0027front\u0027; incluyendo una API web para tu sitio, y c\u00F3digo ejecutandose desde el cliente para bajar la carga del servidor. Botones, formas, etc.\n\nTambi\u00E9n puedo inclu\u00EDr soluciones de IA para tus necesidades!",
+      "eng": "I will develop your website as per your needs, including full responsiveness, both back-end and front-end development, including a custom Web API for your site, as well as client-side code execution for server off-loading, buttons, forms, etc.\n\nI also can include AI solutions for your needs!"
+    },
+    "AttachedMedia": null
+  },
+  {
+    "StartingBidUSD": 40,
+    "EndingBidUSD": 150,
+    "Questions": [
+      {
+        "LocalizedQuestion": {
+          "eng": "If you\u2019re ordering for a business, what\u2019s your industry?",
+          "esp": "Si estas haciendo la orden para un negocio, \u00BFcual es tu industria?"
+        },
+        "LocalizedExample": null
+      },
+      {
+        "LocalizedQuestion": {
+          "eng": "Is this order part of a bigger project you\u0027re working on?",
+          "esp": "\u00BFEsta orden es parte de un proyecto mayor en el cual est\u00E1s trabajando?"
+        },
+        "LocalizedExample": null
+      }
+    ],
+    "Enabled": true,
+    "LocalizedNames": {
+      "esp": "Bots de Chat",
+      "eng": "Chat Bots"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Desarrollar\u00E9 tu chat-bot bajo tus necesidades, incluyendo tantos pasos como necesites seg\u00FAn la complejidad de tu pedido. El bot puede ser multi-plataforma, y de ser necesario, puede incluir soluciones de IA. El bot puede interactuar con tantos servicios como sean necesarios para tus fines.",
+      "eng": "I will develop your chatbot as per your needs, including as many steps as you need following the complexity of your order. The bot can be multi-platform, and, if it\u0027s necessary, can include AI solutions. The bot can interact with as many services as necessary for your ends."
+    },
+    "AttachedMedia": null
+  },
+  {
+    "StartingBidUSD": 20,
+    "EndingBidUSD": 50,
+    "Questions": [
+      {
+        "LocalizedQuestion": {
+          "eng": "What\u0027s your current level of understanding of programming and computing, in general?",
+          "esp": "\u00BFCu\u00E1l es tu nivel de entendimiento actual sobre la programaci\u00F3n, y la computaci\u00F3n en general?"
+        },
+        "LocalizedExample": null
+      },
+      {
+        "LocalizedQuestion": {
+          "eng": "What\u0027s your current level of expertise in the programming language of your order?",
+          "esp": "\u00BFCu\u00E1l es tu nivel de proficiencia actual en el lenguaje de programaci\u00F3n que solicitaste?"
+        },
+        "LocalizedExample": null
+      }
+    ],
+    "Enabled": true,
+    "LocalizedNames": {
+      "esp": "Lecciones de Programaci\u00F3n",
+      "eng": "Code Tutorship"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Te acompa\u00F1ar\u00E9 en tu aventura hacia el mundo de la programaci\u00F3n! Te ense\u00F1ar\u00E9 los conceptos b\u00E1sicos, intermedios y avanzados para que puedas velozmente convertirte en un gran programador.\nLa computaci\u00F3n es un arte extenso y m\u00E1gnifico, y si bien puedes aprender por tu cuenta, necesitas conocer muchas cosas para ser efectivo. Puedo ayudarte a empezar, y guiarte en tu camino para que mejores con velocidad.",
+      "eng": "I\u0027ll travel alongside you in your adventure through the world of programming! I\u0027ll teach you the basics, the not-so-basics and the advanced concepts so you may quickly become a great developer.\nComputing is a magnificent and extense art, and though you can learn by yourself, you need to know a great many things to be effective. I can help you get started, and guide you in your way so that you can improve quickly."
+    },
+    "AttachedMedia": null
+  },
+  {
+    "StartingBidUSD": 60,
+    "EndingBidUSD": 200,
+    "Questions": [
+      {
+        "LocalizedQuestion": {
+          "eng": "If you\u2019re ordering for a business, what\u2019s your industry?",
+          "esp": "Si estas haciendo la orden para un negocio, \u00BFcual es tu industria?"
+        },
+        "LocalizedExample": null
+      },
+      {
+        "LocalizedQuestion": {
+          "eng": "Is this order part of a bigger project you\u0027re working on?",
+          "esp": "\u00BFEsta orden es parte de un proyecto mayor en el cual est\u00E1s trabajando?"
+        },
+        "LocalizedExample": null
+      }
+    ],
+    "Enabled": true,
+    "LocalizedNames": {
+      "esp": "Arduino, ESP32 y Raspberry Pis",
+      "eng": "Arduino, ESP32, and Raspberry Pis\u0027"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Desarrollar\u00E9 el firmware/software de tu controlador bajo tus necesidades, incluyendo sensores, actuadores, servicios y comunicaci\u00F3n seg\u00FAn permita el dispositivo.",
+      "eng": "I will develop the firmware/software of your controller as per your needs, including sensors, services and communications as permitted by the device."
+    },
+    "AttachedMedia": null
+  }
+]
