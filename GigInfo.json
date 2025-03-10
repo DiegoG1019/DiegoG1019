@@ -2,6 +2,7 @@
   {
     "StartingBidUSD": 100,
     "EndingBidUSD": 600,
+    "Alt": "Web Applications Service Offer",
     "Questions": [
       {
         "LocalizedQuestion": {
@@ -49,6 +50,7 @@
       }
     ],
     "Enabled": true,
+    "Alt": "Chat Bots Service Offer",
     "LocalizedNames": {
       "esp": "Bots de Chat",
       "eng": "Chat Bots"
@@ -79,6 +81,7 @@
       }
     ],
     "Enabled": true,
+    "Alt": "Code Tutoring Service Offer",
     "LocalizedNames": {
       "esp": "Lecciones de Programaci\u00F3n",
       "eng": "Code Tutorship"
@@ -108,6 +111,7 @@
         "LocalizedExample": null
       }
     ],
+    "Alt": "Microcontroller Service Offer",
     "Enabled": true,
     "LocalizedNames": {
       "esp": "Arduino, ESP32 y Raspberry Pis",
