@@ -22,5 +22,13 @@
 		"Uri": "https://www.fiverr.com/diegog1014",
 		"DisplayType": 2,
 		"DisplayData": "https://www.fiverr.com/favicon.ico"
+	},
+	{
+		"Enabled": true,
+		"DisplayName": "@DiegoG1014",
+		"Alt": "Discord",
+		"Uri": "https://discord.com/users/diegog1014",
+		"DisplayType": 2,
+		"DisplayData": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"
 	}
 ]
