@@ -1,6 +1,7 @@
 [
   {
     "Enabled": true,
+    "Alt": "Critical Conditions Controller for an Aquaponics System",
     "LocalizedNames": {
       "eng": "Critical Conditions Controller for an Aquaponics System",
       "esp": "Controlador de Condiciones Cr\u00EDticas para un Sistema Acuap\u00F3nico"
