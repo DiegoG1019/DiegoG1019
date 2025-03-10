@@ -1,6 +1,7 @@
 [
   {
     "Enabled": false,
+    "Alt": "Finance Tracker App",
     "DisplayName": "Finance Tracker",
     "Uri": "/DiegoG.Finance",
     "Id": "finance",
