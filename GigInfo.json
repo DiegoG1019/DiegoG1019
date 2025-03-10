@@ -31,6 +31,37 @@
     "AttachedMedia": null
   },
   {
+    "StartingBidUSD": 100,
+    "EndingBidUSD": 600,
+    "Alt": "Desktop Applications Service Offer",
+    "Questions": [
+      {
+        "LocalizedQuestion": {
+          "eng": "If you\u2019re ordering for a business, what\u2019s your industry?",
+          "esp": "Si estas haciendo la orden para un negocio, \u00BFcual es tu industria?"
+        },
+        "LocalizedExample": null
+      },
+      {
+        "LocalizedQuestion": {
+          "eng": "Is this order part of a bigger project you\u0027re working on?",
+          "esp": "\u00BFEsta orden es parte de un proyecto mayor en el cual est\u00E1s trabajando?"
+        },
+        "LocalizedExample": null
+      }
+    ],
+    "Enabled": true,
+    "LocalizedNames": {
+      "esp": "Aplicaciones locales y Servicios de Trasfondo",
+      "eng": "Local Apps and Background Services"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Desarrollar\u00E9 tu aplicaci\u00F3n de escritorio, bien sea con GUI, de Consola, o un Servicio de Trasfondo para cualquier plataforma que necesites (bajo ciertas limitaciones). La conectar\u00E9 con tantos servicios como necesites; e incluir\u00E9 botones, formas, y capacidades de dibujo virtualmente ilimitadas, con todo el poder de tu computadora o servidor.\nTambi\u00E9n puedo integrar servicios de IA a trav\u00E9s de internet!",
+      "eng": "I will develop your desktop app, whether it\u0027s a GUI, Console or a Background Service for any platform you need (under certain limitations). I\u0027ll connect it to as many services as you need; and I\u0027ll include buttons, forms and virtually unlimited drawing capabilities, with all the power of your computer or server.\nI can also integrate AI services through the internet!"
+    },
+    "AttachedMedia": null
+  },
+  {
     "StartingBidUSD": 40,
     "EndingBidUSD": 150,
     "Questions": [
