@@ -3,11 +3,10 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
 
 <span class="not-in-website"><a href="https://diegog1019.github.io/">Check out my Website!</a></span>
 
-### Skills
+<h3> Skills </h3>
 
-<br/>
-
-##### Programming Languages
+<h5> Programming Languages </h5>
+<p>
 <table class="notable-apps">
     <tbody>
       <tr>
@@ -49,11 +48,10 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
     </tr>
   </thead>
 </table>
+</p>
 
-<br/>
-
-##### Technologies
-
+<h5> Technologies </h5>
+<p>
 <table>
 	<tbody>
 	<tr>
@@ -113,11 +111,10 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
     </tr>
   </thead>
 </table>
+</p>
 
-<br/>
-
-##### Services
-
+<h5> Services </h5>
+<p>
 <table>
 	<tbody>
 		<tr>
@@ -165,11 +162,11 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
     </tr>
   </thead>
 </table>
-	
-<br/>
+</p>
 
-##### Chat Bots
+<h5> Chat Bots </h5>
 
+<p>
 <table>
 	<tbody>
 		<tr>
@@ -211,16 +208,19 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
     </tr>
   </thead>
 </table>
+</p>
 
-<br/>
+<h5> Other Skills </h5>
 
-##### Other Skills
+<p>
 
 Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
 
-<br/>
+</p>
 
-### Notable *Public* Apps I've made
+<h3>Notable *Public* Apps I've made</h3>
+
+<p>
 
 <table class="notable-apps">
   <thead>
@@ -235,10 +235,11 @@ Facial Recognition | Web Development | Video Game Development | Information Tech
   </tbody>
 </table>
 
-<br/>
+</p>
 
-### Interests
+<h3>Interests</h3>
 
+<p>
 Amongst the many things I enjoy doing with my time, the most prominent - tech-wise - would be:
 - Electronics
 - Programming
@@ -247,3 +248,5 @@ Amongst the many things I enjoy doing with my time, the most prominent - tech-wi
 - Embedded Systems
 - GPU Programming
 - Low-level Programming
+
+</p>
