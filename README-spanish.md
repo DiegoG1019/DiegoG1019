@@ -216,16 +216,16 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 <table>
 	<tr>
 		<thead>
-			<td>Reconocimiento Facial</td>
-			<td>Desarrollo Web</td>
-			<td>Desarrollo de Video Juegos</td>
-			<td>Tecnología en Información (IT)</td>
-			<td>Mantenimiento de Hardware</td>
-			<td>Tutoría de Código</td>
-			<td>Sistemas Embedidos</td>
-			<td>HTTP/S REST APIs Web</td>
-			<td>OAuth</td>
-			<td>JWT</td>
+			<td class="highlightable"> Reconocimiento Facial </td>
+			<td class="highlightable"> Desarrollo Web </td>
+			<td class="highlightable"> Desarrollo de Video Juegos </td>
+			<td class="highlightable"> Tecnología en Información (IT) </td>
+			<td class="highlightable"> Mantenimiento de Hardware </td>
+			<td class="highlightable"> Tutoría de Código </td>
+			<td class="highlightable"> Sistemas Embedidos </td>
+			<td class="highlightable"> HTTP/S REST APIs Web </td>
+			<td class="highlightable"> OAuth </td>
+			<td class="highlightable"> JWT </td>
 		</thead>
 	</tr>
 </table>
@@ -252,12 +252,12 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 <p>
 Entre las muchas cosas que me gusta hacer con mi tiempo y la tecnología, las mas prominentes serían:
 <ul>
-	<li> Electrónica </li>
-	<li> Programación </li>
-	<li> Desarrollo Web </li>
-	<li> Ciencias Computacionales </li>
-	<li> Sistemas Embedidos </li>
-	<li> Programación de GPU </li>
-	<li> Programación de bajo nivel </li>
+	<li class="highlightable"> Electrónica </li>
+	<li class="highlightable"> Programación </li>
+	<li class="highlightable"> Desarrollo Web </li>
+	<li class="highlightable"> Ciencias Computacionales </li>
+	<li class="highlightable"> Sistemas Embedidos </li>
+	<li class="highlightable"> Programación de GPU </li>
+	<li class="highlightable"> Programación de bajo nivel </li>
 </ul>
 </p>

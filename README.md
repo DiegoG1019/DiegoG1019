@@ -217,16 +217,16 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
 <table>
 	<tr>
 		<thead>
-			<td>Facial Recognition</td>
-			<td>Web Development</td>
-			<td>Video Game Development</td>
-			<td>Information Technology (IT)</td>
-			<td>Hardware Maintenance</td>
-			<td>Code Tutorship</td>
-			<td>Embedded Systems</td>
-			<td>HTTP/S REST Web APIs</td>
-			<td>OAuth</td>
-			<td>JWT</td>
+			<td class="highlightable"> Facial Recognition </td>
+			<td class="highlightable"> Web Development </td>
+			<td class="highlightable"> Video Game Development </td>
+			<td class="highlightable"> Information Technology (IT) </td>
+			<td class="highlightable"> Hardware Maintenance </td>
+			<td class="highlightable"> Code Tutorship </td>
+			<td class="highlightable"> Embedded Systems </td>
+			<td class="highlightable"> HTTP/S REST Web APIs </td>
+			<td class="highlightable"> OAuth </td>
+			<td class="highlightable"> JWT </td>
 		</thead>
 	</tr>
 </table>
@@ -257,13 +257,13 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
 <p>
 Amongst the many things I enjoy doing with my time, the most prominent - tech-wise - would be:
 <ul>
-	<li> Electronics </li>
-	<li> Programming </li>
-	<li> Web Development </li>
-	<li> Computer Science </li>
-	<li> Embedded Systems </li>
-	<li> GPU Programming </li>
-	<li> Low-level Programming </li>
+	<li class="highlightable"> Electronics </li>
+	<li class="highlightable"> Programming </li>
+	<li class="highlightable"> Web Development </li>
+	<li class="highlightable"> Computer Science </li>
+	<li class="highlightable"> Embedded Systems </li>
+	<li class="highlightable"> GPU Programming </li>
+	<li class="highlightable"> Low-level Programming </li>
 </ul>
 
 </p>
