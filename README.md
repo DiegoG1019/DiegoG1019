@@ -7,11 +7,59 @@ Pronouns: they/them/their
 ### Skills
 
 ##### Programming Languages
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /> C# </a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /> C++ </a>
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/lua_logo.png" alt="Lua" /> Lua </a>
-</p>
+<table class="notable-apps">
+    <tbody>
+      <tr>
+        <td class="highlightable">
+			<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+			</a>
+		</td>
+		<td class="highlightable">
+			<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+			</a>
+		</td>
+		<td class="highlightable">
+			<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/lua_logo.png" alt="Lua" />
+			</a>
+		</td>
+		<td class="highlightable">
+			<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/python_logo.png" alt="Python" />
+			</a>
+		</td>
+		<td class="highlightable">
+			<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/js_logo.png" alt="JavaScript" />
+			</a>
+		</td>
+		<td class="highlightable">
+			<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/html_logo.png" alt="HTML" />
+			</a>
+		</td>
+		<td class="highlightable">
+			<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/css_logo.png" alt="CSS" />
+			</a>
+		</td>
+      </tr>
+  </tbody>
+  
+  <thead>
+    <tr>
+      <th> C# </th>
+      <th> C++ </th>
+      <th> Lua </th>
+      <th> Python </th>
+      <th> JavaScript </th>
+      <th> HTML </th>
+      <th> CSS </th>
+    </tr>
+  </thead>
+</table>
 
 ##### Web Technologies
 <p align="left">
