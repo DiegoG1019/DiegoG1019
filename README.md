@@ -148,17 +148,17 @@ Pronouns: they/them/their
 			</td>
 		</tr>
 	</tbody>
-	
-	<thead>
-		<tr>
-		  <th> Azure </th>
-		  <th> AWS </th>
-		  <th> Heroku </th>
-		  <th> MySQL </th>
-		  <th> MongoDB </th>
-		  <th> CosmosDB </th>
-		</tr>
-	</thead>
+  
+  <thead>
+    <tr>
+      <th> Azure </th>
+      <th> AWS </th>
+	  <th> Heroku </th>
+	  <th> MySQL </th>
+	  <th> MongoDB </th>
+	  <th> CosmosDB </th>
+    </tr>
+  </thead>
 </table>
 	
 ##### Chat Bots
