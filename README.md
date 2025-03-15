@@ -214,7 +214,22 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
 
 <p>
 
-Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
+<table>
+	<tr>
+		<thead>
+			<td>Facial Recognition</td>
+			<td>Web Development</td>
+			<td>Video Game Development</td>
+			<td>Information Technology (IT)</td>
+			<td>Hardware Maintenance</td>
+			<td>Code Tutorship</td>
+			<td>Embedded Systems</td>
+			<td>HTTP/S REST Web APIs</td>
+			<td>OAuth</td>
+			<td>JWT</td>
+		</thead>
+	</tr>
+</table>
 
 </p>
 
