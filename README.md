@@ -256,12 +256,14 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
 
 <p>
 Amongst the many things I enjoy doing with my time, the most prominent - tech-wise - would be:
-- Electronics
-- Programming
-- Web Development
-- Computer Science
-- Embedded Systems
-- GPU Programming
-- Low-level Programming
+<ul>
+	<li> Electronics </li>
+	<li> Programming </li>
+	<li> Web Development </li>
+	<li> Computer Science </li>
+	<li> Embedded Systems </li>
+	<li> GPU Programming </li>
+	<li> Low-level Programming </li>
+</ul>
 
 </p>

@@ -251,11 +251,13 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 <h3> Intereses </h3>
 <p>
 Entre las muchas cosas que me gusta hacer con mi tiempo y la tecnología, las mas prominentes serían:
-- Electrónica
-- Programación
-- Desarrollo Web
-- Ciencias Computacionales
-- Sistemas Embedidos
-- Programación de GPU
-- Programación de bajo nivel
+<ul>
+	<li> Electrónica </li>
+	<li> Programación </li>
+	<li> Desarrollo Web </li>
+	<li> Ciencias Computacionales </li>
+	<li> Sistemas Embedidos </li>
+	<li> Programación de GPU </li>
+	<li> Programación de bajo nivel </li>
+</ul>
 </p>
