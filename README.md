@@ -22,27 +22,27 @@ Pronouns: they/them/their
 		</td>
 		<td class="highlightable">
 			<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/lua_logo.png" alt="Lua" />
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/lua_logo.png" width="36" height="36" alt="Lua" />
 			</a>
 		</td>
 		<td class="highlightable">
 			<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/python_logo.png" alt="Python" />
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/python_logo.png" width="36" height="36" alt="Python" />
 			</a>
 		</td>
 		<td class="highlightable">
 			<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/js_logo.png" alt="JavaScript" />
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/js_logo.png" width="36" height="36" alt="JavaScript" />
 			</a>
 		</td>
 		<td class="highlightable">
 			<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/html_logo.png" alt="HTML" />
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/html_logo.png" width="36" height="36" alt="HTML" />
 			</a>
 		</td>
 		<td class="highlightable">
 			<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/css_logo.png" alt="CSS" />
+				<img src="https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/main/css_logo.png" width="36" height="36" alt="CSS" />
 			</a>
 		</td>
       </tr>
