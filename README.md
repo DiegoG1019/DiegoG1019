@@ -1,10 +1,11 @@
 
 I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing mostly on C# for Back-end and Front-end Web, Desktop and Mobile environments (as well as other ARM-based SoCs), able to create everything from low-level computing solutions to beautiful GUIs and Server Building, Management and Scaling. I also code in C++ for embedded devices such as Arduino and ESP32s, with a good grasp on Assembly language and Electronic design
-Pronouns: they/them/their
 
 <span class="not-in-website"><a href="https://diegog1019.github.io/">Check out my Website!</a></span>
 
 ### Skills
+
+<br/>
 
 ##### Programming Languages
 <table class="notable-apps">
@@ -48,6 +49,8 @@ Pronouns: they/them/their
     </tr>
   </thead>
 </table>
+
+<br/>
 
 ##### Technologies
 
@@ -111,6 +114,8 @@ Pronouns: they/them/their
   </thead>
 </table>
 
+<br/>
+
 ##### Services
 
 <table>
@@ -161,7 +166,10 @@ Pronouns: they/them/their
   </thead>
 </table>
 	
+<br/>
+
 ##### Chat Bots
+
 <table>
 	<tbody>
 		<tr>
@@ -204,10 +212,16 @@ Pronouns: they/them/their
   </thead>
 </table>
 
+<br/>
+
 ##### Other Skills
+
 Facial Recognition | Web Development | Video Game Development | Information Technology (IT) | Hardware Maintenance | Code Tutorship | Embedded Systems | OAuth | HTTP/S REST Web APIs
 
+<br/>
+
 ### Notable *Public* Apps I've made
+
 <table class="notable-apps">
   <thead>
     <tr>
@@ -221,7 +235,10 @@ Facial Recognition | Web Development | Video Game Development | Information Tech
   </tbody>
 </table>
 
+<br/>
+
 ### Interests
+
 Amongst the many things I enjoy doing with my time, the most prominent - tech-wise - would be:
 - Electronics
 - Programming
