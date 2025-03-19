@@ -37,5 +37,18 @@
       "esp": "Un bot desarrollado en C# para facilitar la planificación personal y grupal de tareas, con soporte para varias listas, cada una con sus propias tareas, estados y descripción. El bot puede ser utilizado en grupos o a través del chat personal con el bot."
     },
     "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Alt": "Facial Recognition",
+    "LocalizedNames": {
+      "eng": "AI OpenCV Facial Recognition System",
+      "esp": "Sistema de Reconocimiento Facial con OpenCV e IA"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Un sistema de reconocimiento facial hecho para validar y verificar fotos de perfil para detectar que la cara esté posicionada correctamente, incluyendo ojos, boca, brillo y calidad; y además, eliminar el trasfondo alrededor del sujeto.\nDesarrollado desde 0 por mí utilizando herramientas de IA junto con OpenCV. El API es capaz de recibir imagenes singulares o un stream de imagenes a través de un WebSocket para continúamente detectar que la cara esté correctamente posicionada.",
+      "eng": "A facial recognition system designed to validate and verify profile pictures and detect that the subject's face is correctly positioned, including eyes, mouth, brightness and quality; and remove the background of the image around the subject.\nDeveloped by me from scratch utilizing AI tools and OpenCV. The API is capable of receiving singular images or a stream of images through a WebSocket to continually detect that the subject's face is correctly positioned."
+    },
+    "AttachedMedia": null
   }
 ]
