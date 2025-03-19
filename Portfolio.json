@@ -11,5 +11,31 @@
       "esp": "Un sistema repleto de features dise\u00F1ado desde 0 para manejar, contorlar y observar un b\u00FAcle acuap\u00F3nico completo, incluyendo observaci\u00F3n en vivo de los peces, lectura de par\u00E1metros comprensivos basado en sensores y control y observaci\u00F3n remota.\nJunto con varios microcontroladores incluyendo Arduinos, ESP32 y Raspberry Pis, y una arquitectura modelada a partir de dispositivo -\u003E servidor local -\u003E servidor global, y una interfaz gr\u00E1fica hermosa para mostrar gr\u00E1ficos de datos, sumarios informativos, notificaciones y alertas; y manejar permisos y acceso granular de usuario."
     },
     "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Alt": "MagicEngine",
+    "LocalizedNames": {
+      "eng": "Video Game Engine with highly customizable graphics system",
+      "esp": "Motor de Video Juegos con sistema gráfico personalizable",
+    },
+    "LocalizedDescriptions": {
+      "eng": "An experimental game engine designed, planned and developed from scratch by me; for learning purposes and to obtain a deep insight into GPU programming and processing.\nThe Engine was developed with a node-system in mind, in which every game object is its own node and can become part of the scene tree to combine them and provide a wide variety of possible, expectable behavior with as little refactorization or redundant classes as possible.\nThe engine can run on Windows, Linux, MacOS, Android and iOS with support for Vulkan, DirectX, Metal and OpenGL graphical backends.",
+      "esp": "Un motor de juegos experimental diseñado, planificado y desarrollado desde 0 por mi; por propósitos de aprendizaje y para obtener una vista profunda en el mundo de desarrollo y procesamiento de GPU.\nEl motor fue diseñado con un sistema de nodos en mente, en donde todos los objetos del juego son nodos que pueden formar parte del arbol de escena para combinarse y proveer una gran variedad de comportamientos pronosticables con la menor cantidad posible de refactorizaciones o clases redundantes como sea posible.\nEl motor puede correr en Windows, Linux, MacOS, Android e iOS con soporte para Vulkan, DirectX, Metal y OpenGL"
+    },
+    "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Alt": "ToDoListBot",
+    "LocalizedNames": {
+      "eng": "Telegram ToDo List bot",
+      "esp": "Bot de QueHaceres de Telegram"
+    },
+    "LocalizedDescriptions": {
+      "eng": "A bot developed in C# to facilitate the planning of personal and group activities, with support for various lists, each one with their own tasks, status and descriptions. The bot can be used both in groups and through its own DM chat",
+      "esp": "Un bot desarrollado en C# para facilitar la planificación personal y grupal de tareas, con soporte para varias listas, cada una con sus propias tareas, estados y descripción. El bot puede ser utilizado en grupos o a través del chat personal con el bot."
+    },
+    "AttachedMedia": null
   }
 ]
