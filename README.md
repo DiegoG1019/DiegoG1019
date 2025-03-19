@@ -233,25 +233,6 @@ I'm a **Full Stack Developer** and **Computer Engineer (intern)**, focusing most
 
 </p>
 
-<h3>Notable *Public* Apps I've made</h3>
-
-<p>
-
-<table class="notable-apps">
-  <thead>
-    <tr>
-      <th>Chat Bots</th>
-    </tr>
-  </thead>
-    <tbody>
-      <tr>
-        <td class="highlightable">Telegram Collaborative To-Do List bot, <a href="https://t.me/dgtodolistbot">@dgtodolistbot</a></span></td>
-      </tr>
-  </tbody>
-</table>
-
-</p>
-
 <h3>Interests</h3>
 
 <p>

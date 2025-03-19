@@ -231,23 +231,6 @@ Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, e
 </table>
 </p>
 
-<h3> Aplicaciones *publicas* notables que he hecho </h3>
-<p>
-<table class="notable-apps">
-  <thead>
-    <tr>
-      <th>Chat Bots</th>
-    </tr>
-  </thead>
-    <tbody>
-      <tr>
-        <td class="highlightable">Bot de Listas de que Hacer Colaborativa, <a href="https://t.me/dgtodolistbot">@dgtodolistbot</a></span></td>
-      </tr>
-  </tbody>
-</table>
-</p>
-
-
 <h3> Intereses </h3>
 <p>
 Entre las muchas cosas que me gusta hacer con mi tiempo y la tecnología, las mas prominentes serían:
