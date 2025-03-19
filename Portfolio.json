@@ -17,7 +17,7 @@
     "Alt": "MagicEngine",
     "LocalizedNames": {
       "eng": "Video Game Engine with highly customizable graphics system",
-      "esp": "Motor de Video Juegos con sistema gráfico personalizable",
+      "esp": "Motor de Video Juegos con sistema gráfico personalizable"
     },
     "LocalizedDescriptions": {
       "eng": "An experimental game engine designed, planned and developed from scratch by me; for learning purposes and to obtain a deep insight into GPU programming and processing.\nThe Engine was developed with a node-system in mind, in which every game object is its own node and can become part of the scene tree to combine them and provide a wide variety of possible, expectable behavior with as little refactorization or redundant classes as possible.\nThe engine can run on Windows, Linux, MacOS, Android and iOS with support for Vulkan, DirectX, Metal and OpenGL graphical backends.",
