@@ -1,6 +1,11 @@
 [
   {
     "Enabled": true,
+    "Secondary": false,
+	"LocalizedTag": {
+		"eng": "Thesis Project",
+		"esp": "Proyecto de grado"
+	},
     "Alt": "Critical Conditions Controller for an Aquaponics System",
     "LocalizedNames": {
       "eng": "Critical Conditions Controller for an Aquaponics System",
@@ -14,6 +19,11 @@
   },
   {
     "Enabled": true,
+    "Secondary": false,
+	"LocalizedTag": {
+		"eng": "Personal Project",
+		"esp": "Proyecto Personal"
+	},
     "Alt": "MagicEngine",
     "LocalizedNames": {
       "eng": "Video Game Engine with highly customizable graphics system",
@@ -27,6 +37,11 @@
   },
   {
     "Enabled": true,
+    "Secondary": false,
+	"LocalizedTag": {
+		"eng": "Personal Project",
+		"esp": "Proyecto Personal"
+	},
     "Alt": "ToDoListBot",
     "LocalizedNames": {
       "eng": "Telegram ToDo List bot",
@@ -40,6 +55,11 @@
   },
   {
     "Enabled": true,
+    "Secondary": false,
+	"LocalizedTag": {
+		"eng": "Ordered Through Fiverr",
+		"esp": "Ordenado a través de Fiverr"
+	},
     "Alt": "Facial Recognition",
     "LocalizedNames": {
       "eng": "AI OpenCV Facial Recognition System",
@@ -48,6 +68,24 @@
     "LocalizedDescriptions": {
       "esp": "Un sistema de reconocimiento facial hecho para validar y verificar fotos de perfil para detectar que la cara esté posicionada correctamente, incluyendo ojos, boca, brillo y calidad; y además, eliminar el trasfondo alrededor del sujeto.\nDesarrollado desde 0 por mí utilizando herramientas de IA junto con OpenCV. El API es capaz de recibir imagenes singulares o un stream de imagenes a través de un WebSocket para continúamente detectar que la cara esté correctamente posicionada.",
       "eng": "A facial recognition system designed to validate and verify profile pictures and detect that the subject's face is correctly positioned, including eyes, mouth, brightness and quality; and remove the background of the image around the subject.\nDeveloped by me from scratch utilizing AI tools and OpenCV. The API is capable of receiving singular images or a stream of images through a WebSocket to continually detect that the subject's face is correctly positioned."
+    },
+    "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Secondary": true,
+	"LocalizedTag": {
+		"eng": "Ordered Through Fiverr",
+		"esp": "Ordenado a través de Fiverr"
+	},
+    "Alt": "Ari Bot",
+    "LocalizedNames": {
+      "eng": "AriBot",
+      "esp": "AriBot"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Un simple Bot de Discord que, cuando escribes 'Ari' en el chat, envía una imágen de Ariana Grande aleatoria con su descripción!",
+      "eng": "A simple Discord bot that sends a random picture of Ariana Grande with a related description!."
     },
     "AttachedMedia": null
   }
