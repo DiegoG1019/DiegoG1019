@@ -37,7 +37,7 @@
   },
   {
     "Enabled": true,
-    "Secondary": false,
+    "Secondary": true,
 	"LocalizedTag": {
 		"eng": "Personal Project",
 		"esp": "Proyecto Personal"
@@ -86,6 +86,60 @@
     "LocalizedDescriptions": {
       "esp": "Un simple Bot de Discord que, cuando escribes 'Ari' en el chat, envía una imágen de Ariana Grande aleatoria con su descripción!",
       "eng": "A simple Discord bot that sends a random picture of Ariana Grande with a related description!."
+    },
+    "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Secondary": true,
+	"LocalizedTag": {
+		"eng": "Ordered Through Fiverr",
+		"esp": "Ordenado a través de Fiverr"
+	},
+    "Alt": "LogiTech GHUB",
+    "LocalizedNames": {
+      "eng": "LogiTech GHUB Utilities",
+      "esp": "Utilidades con LogiTech GHUB"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Una pequeña colección de scripts para simplificar tareas repetitivas a través del uso de LogiTech GHUB con Lua",
+      "eng": "A small collection of scripts to simplify repetitive tasks through the use of LogiTech GHUB and Lua"
+    },
+    "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Secondary": true,
+	"LocalizedTag": {
+		"eng": "Ordered Through Fiverr",
+		"esp": "Ordenado a través de Fiverr"
+	},
+    "Alt": "Bot Notification Network",
+    "LocalizedNames": {
+      "eng": "Bot Notification Network",
+      "esp": "Red de notificaciones de Bots"
+    },
+    "LocalizedDescriptions": {
+      "esp": "Un simple bot multiplataforma que recibe noticias y actualizaciones y las envia a Discord, Telegram y WhatsApp. Además, un administrador puede pedirle al bot que manualmente reenvie un mensaje directo desde cualquier plataforma, hacia cualquier plataforma.",
+      "eng": "A simple multi-platform bot that receives news and updates to send them to Discord, Telegram and WhatsApp. Additionally, an admin can send a direct message to the bot from any platform and have it forward it to any or all of the other platforms."
+    },
+    "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Secondary": true,
+	"LocalizedTag": {
+		"eng": "Ordered Through Fiverr",
+		"esp": "Ordenado a través de Fiverr"
+	},
+    "Alt": "Code Tutorship",
+    "LocalizedNames": {
+      "eng": "Clases de Programación",
+      "esp": "Programming Lessons"
+    },
+    "LocalizedDescriptions": {
+      "esp": "A small show-case of reviews from my clients:\n\"Taught me what i asked for! Some new knowledge going in my brain, feels great!\" -learningdevil\n\"Excellent as always. Look forward to working with you again.\"-alphaai\n\"Clearly an intelligent and hard-working programmer. Very pleased with Diego! He has exceptional communication skills and seems to have a firm grasp of abstract concepts and also incredibly patient with my unorthodox LUA request. Highly recommended!\" -bowserpunch.\nVerifiable on [Fiverr](https://www.fiverr.com/diegog1014/teach-you-how-to-code-in-lua)",
+      "eng": "Una pequeña muestra de las reviews de mis clientes:\n\"Taught me what i asked for! Some new knowledge going in my brain, feels great!\" -learningdevil\n\"Excellent as always. Look forward to working with you again.\"-alphaai\n\"Clearly an intelligent and hard-working programmer. Very pleased with Diego! He has exceptional communication skills and seems to have a firm grasp of abstract concepts and also incredibly patient with my unorthodox LUA request. Highly recommended!\" -bowserpunch.\nVerificable en [Fiverr](https://www.fiverr.com/diegog1014/teach-you-how-to-code-in-lua)"
     },
     "AttachedMedia": null
   }
