@@ -134,12 +134,30 @@
 	},
     "Alt": "Code Tutorship",
     "LocalizedNames": {
-      "eng": "Clases de Programación",
-      "esp": "Programming Lessons"
+      "esp": "Clases de Programación",
+      "eng": "Programming Lessons"
     },
     "LocalizedDescriptions": {
-      "esp": "A small show-case of reviews from my clients:\n\"Taught me what i asked for! Some new knowledge going in my brain, feels great!\" -learningdevil\n\"Excellent as always. Look forward to working with you again.\"-alphaai\n\"Clearly an intelligent and hard-working programmer. Very pleased with Diego! He has exceptional communication skills and seems to have a firm grasp of abstract concepts and also incredibly patient with my unorthodox LUA request. Highly recommended!\" -bowserpunch.\nVerifiable on [Fiverr](https://www.fiverr.com/diegog1014/teach-you-how-to-code-in-lua)",
-      "eng": "Una pequeña muestra de las reviews de mis clientes:\n\"Taught me what i asked for! Some new knowledge going in my brain, feels great!\" -learningdevil\n\"Excellent as always. Look forward to working with you again.\"-alphaai\n\"Clearly an intelligent and hard-working programmer. Very pleased with Diego! He has exceptional communication skills and seems to have a firm grasp of abstract concepts and also incredibly patient with my unorthodox LUA request. Highly recommended!\" -bowserpunch.\nVerificable en [Fiverr](https://www.fiverr.com/diegog1014/teach-you-how-to-code-in-lua)"
+      "eng": "A small show-case of reviews from my clients:\n\"Taught me what i asked for! Some new knowledge going in my brain, feels great!\" -learningdevil\n\"Excellent as always. Look forward to working with you again.\"-alphaai\n\"Clearly an intelligent and hard-working programmer. Very pleased with Diego! He has exceptional communication skills and seems to have a firm grasp of abstract concepts and also incredibly patient with my unorthodox LUA request. Highly recommended!\" -bowserpunch.\nVerifiable on [Fiverr](https://www.fiverr.com/diegog1014/teach-you-how-to-code-in-lua)",
+      "esp": "Una pequeña muestra de las reviews de mis clientes:\n\"Taught me what i asked for! Some new knowledge going in my brain, feels great!\" -learningdevil\n\"Excellent as always. Look forward to working with you again.\"-alphaai\n\"Clearly an intelligent and hard-working programmer. Very pleased with Diego! He has exceptional communication skills and seems to have a firm grasp of abstract concepts and also incredibly patient with my unorthodox LUA request. Highly recommended!\" -bowserpunch.\nVerificable en [Fiverr](https://www.fiverr.com/diegog1014/teach-you-how-to-code-in-lua)"
+    },
+    "AttachedMedia": null
+  },
+  {
+    "Enabled": true,
+    "Secondary": false,
+  	"LocalizedTag": {
+  		"eng": "Asignación en WarlockCode",
+  		"esp": "Asignación en WarlockCode"
+  	},
+    "Alt": "WarlockCode-Suite",
+    "LocalizedNames": {
+      "eng": "Software Suite for automatic control of business invoices",
+      "esp": "Suite de Software para control automático de facturas de negocio"
+    },
+    "LocalizedDescriptions": {
+      "eng": "A suite of applications, integrations and tools that work in symphony with the purpose of downloading and examining legal tax documents on inbound and outbound invoices among other documents, and organize them in a simple and managable manner.\nWithout exposing any classified information, the suite is based on 4 basic components:\n- Document Download: The documents are downloaded from official sources to be read, parsed, and their original forms stored. The parsed data is stored in a database.\n- Integrations with Existing Systems: The documents that are already stored in existing software are read and parsed as well, and compared with existing information. They are also then stored in the database, marking their source.\n- Analysis: The stored documents are then analyzed to extract useful information such as Key Performance Indicators.\n- Visualization: A progressive web application is developed with the purpose of demonstrating the performed analysis, and the complete searchable list of scanned documents.",
+      "esp": "Una suite de aplicaciones, integraciones y herramientas que trabajan en sínfonia, con el propósito de descargar documentos legales de impuestos sobre facturas entrantes y salientes, además de otros documentos jurídicos y organizarlos de manera sencilla y manejable.\nSin dar información clasificada, la suite se basa en 4 componentes básicos:\n- Descarga de documentos legales: Los documentos se descargan de fuentes oficiales, se leen, parsean, y se almacena su forma original. Los datos se almacenan en una base de datos.\n- Integración con sistemas existentes: Se leen los documentos almacenados en aquellos sistemas que ya existían en la empresa previo a éste, y se almacenan en la base de datos, denotando su proveniencia.\n- Análisis: Se analizan los documentos para extraer información útil como Indicadores de Rendimiento Clave\n- Visualización en página web: Una página web desarrollada con el propósito de mostrar los análisis hechos, y la lista completa de documentos escaneados."
     },
     "AttachedMedia": null
   }
