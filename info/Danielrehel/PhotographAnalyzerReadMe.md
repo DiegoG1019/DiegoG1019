@@ -9,7 +9,7 @@
   - Alternatively, you can also call `dotnet publish` from `./Danielrehel.PhotographAnalyzer/Danielrehel.PhotographAnalyzer` (where `Danielrehel.PhotographAnalyzer.csproj` is located)
  
 The folders structure should look like this:
-![image](https://github.com/user-attachments/assets/4a2fcfab-1216-4a77-a558-616bc62ac110)
+![image](https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/refs/heads/main/info/Danielrehel/folders.png)
 (Note that whatever folders are in the same folder as these two is not important)
 
 The `appsettings.json` should include the following config block with the placeholders filled out appropriately
@@ -20,4 +20,4 @@ The `appsettings.json` should include the following config block with the placeh
   "Endpoint": "https://ik.imagekit.io/diegogduden/"
 }
 ```
-![image](https://github.com/user-attachments/assets/2e4022e1-afc3-490e-af99-4b36a3300ed4)
+![image](https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/refs/heads/main/info/Danielrehel/config.png)
