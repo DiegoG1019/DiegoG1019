@@ -15,9 +15,9 @@ The folders structure should look like this:
 The `appsettings.json` should include the following config block with the placeholders filled out appropriately
 ```json
 "ImageKitOptions": {
-  "PublicKey": "public_zlb/f5p1sswQ4ByLCajXguXaWR0=",
-  "PrivateKey": "private_YifRqVmwi+GPuemnWjcEIAXgnbE=",
-  "Endpoint": "https://ik.imagekit.io/diegogduden/"
+  "PublicKey": "{Public Key}",
+  "PrivateKey": "{Private Key}",
+  "Endpoint": "https://ik.imagekit.io/{ImageKit Username}/"
 }
 ```
 ![image](https://raw.githubusercontent.com/DiegoG1019/DiegoG1019/refs/heads/main/info/Danielrehel/config.png)
