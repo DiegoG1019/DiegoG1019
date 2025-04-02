@@ -1,0 +1,1 @@
+This website's build artifacts, source code, and all its content excluding 3rd party logos, icons and content owned by '{ClientName}' belong to Diego García, © {Year} All rights reserved.
