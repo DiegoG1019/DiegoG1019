@@ -1,0 +1,42 @@
+# License Agreement
+
+This License Agreement ("Agreement") is made between Diego García ("Licensor") and {ClientName} ("Licensee") for the use and rights to {SoftwareName} ("Software")
+
+## 1. Grant of License
+Licensor hereby grants Licensee a perpetual, non-exclusive, non-transferable, royalty-free license to use, reproduce, and distribute the Software provided by Licensor.
+
+## 2. Ownership
+Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights. Licensee acknowledges that they do not acquire any ownership rights in the Software.
+
+## 3. Permitted Uses
+Licensee may:
+- Use the Software for any purpose.
+- Share the Software with third parties, provided that this Agreement accompanies the Software.
+- Sell, sublicense, or otherwise transfer the Software to any third party without the prior written consent of Licensor.
+
+## 4. Restrictions
+Licensee may not:
+- Remove or alter any proprietary notices or labels on the Software.
+
+## 5. Disclaimer of Warranties
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+## 6. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Licensor's current jurisdiction at the time of any claim.
+
+## 7. Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous understandings, agreements, representations, and warranties, whether written or oral, with respect to the Software.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+Diego Andrés García Maldonado
+{AgreementDate}
+Email of the Licensor: dagarciam1014@gmail.com
+Local Phone Number of the Licensor: {DevPhone}
+Acceptance Method: {DevAcceptanceMethod}
+
+{ClientName}
+{AgreementDate}
+Email of the Licensee: {ClientEmail},
+Local Phone Number of the Licensee: {ClientPhone},
+Acceptance Method: {ClientAcceptanceMethod}
