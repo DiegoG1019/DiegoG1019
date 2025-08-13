@@ -1,4 +1,4 @@
-Soy un **desarrollador Full Stack** e **Ingeniero (pasante) en Computación**, especializandome en C# para back-end y front-end; desarrollo aplicaciones web, de escritorio y para móvil (además, para sistemas embedidos). Capaz de crear todo desde soluciones computacionales de bajo nivel hasta interfaces gráficas; construir, manejar y escalar servidores. Programo en C++ para sistemas embedidos como los Arduino y los ESP32s, con un buen alcance en lenguaje ensamblador y diseño electrónico
+Soy un **desarrollador Full Stack** e **Ingeniero en Computación**, especializandome en C# para back-end y front-end; desarrollo aplicaciones web, de escritorio y para móvil (además, para sistemas embedidos). Capaz de crear todo desde soluciones computacionales de bajo nivel hasta interfaces gráficas; construir, manejar y escalar servidores. Programo en C++ para sistemas embedidos como los Arduino y los ESP32s, con un buen alcance en lenguaje ensamblador y diseño electrónico
 
 <span class="not-in-website"><a href="https://diegog1019.github.io/">Mira mi sitio web!</a></span>
 
