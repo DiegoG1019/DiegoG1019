@@ -1,3 +1,6 @@
 GLV.Sandbox:1
 Monitor.SAT.Testing:1
 Monitor.SAT.FinancialDocumentProcessor:1
+Monitor.SAT.API:1
+Monitor.SAT.Synchronizer:1
+Monitor.SAT.Website:1
